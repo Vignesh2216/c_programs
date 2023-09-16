@@ -3,5 +3,5 @@
 void main()
 {
     printf("HELLO WORLD");
-    getch();
+    return;;
 }
