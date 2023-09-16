@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+int main()
 {
     int a=5 , b=10;
     int sum,diff,mul,div;
@@ -12,5 +12,5 @@ void main()
     printf("\n""diff=""%d",diff);
     printf("\n""mul=""%d",mul);
     printf("\n""div=""%d",div);
-    getch();
+    return 0;
 }
