@@ -6,5 +6,5 @@ void main()
     double b=1.23456789;
     printf("%c",a);
     printf("\n""%lf",b);
-    getch();
+    return;
 }
