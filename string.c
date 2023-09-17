@@ -3,11 +3,8 @@
 #include<string.h>
 void main()
 {
-    int n,i;
+    int i;
     char s[50];
-
-    printf("enter n:");
-    scanf("%d",&n);
     printf("enter string:");
     scanf("%s",&s);
     i=strlen(s);
