@@ -14,5 +14,13 @@ void main()
         copy=copy/10;
     }
     printf("reverse:%d",rev);
+    if(n==rev)
+    {
+        printf("\npalindrome");
+    }
+    else
+    {
+        printf("\nnot a palindrome");
+    }
     return;
 }
