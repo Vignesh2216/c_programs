@@ -13,5 +13,5 @@ void main()
     {
         printf("%d\n",h[i]);
     }
-    return;
+    getch();
 }
